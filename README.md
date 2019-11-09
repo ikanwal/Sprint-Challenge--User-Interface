@@ -48,7 +48,7 @@ ANS: DISPLAY:BLOCK  : 1- Always starts on a new line.
                       2-Can use vertical-align property.
 
 3. What are the 4 areas of the box model?
-
+git
 ANS: Margin , Padding , Borders , Content
 
 4. While using flexbox, what axis does the following property work on: ```align-items: center```?
