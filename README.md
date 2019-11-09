@@ -34,13 +34,30 @@ Edit this document to include your answers after each question. Make sure to lea
 
 1. If you were to describe semantic HTML to the next cohort of students, what would you say?
 
+
+ANS: Semantic HTML gives the meaning to the content . Like how will you differentiate if this element is a heading or a paragraph.Thats why we use Semantic HTML.
+e.g: <h></h> -- used for heading elements
+   <p></p> -- used for paragraphing a sentence/es
+
 2. Name two big differences between ```display: block;``` and ```display: inline;```.
+
+
+ANS: DISPLAY:BLOCK  : 1- Always starts on a new line. 
+                      2-Vertical-align has no affect.
+     DISPLAY:INLINE : 1- Appear on the same line as content and tags beside them 
+                      2-Can use vertical-align property.
 
 3. What are the 4 areas of the box model?
 
+ANS: Margin , Padding , Borders , Content
+
 4. While using flexbox, what axis does the following property work on: ```align-items: center```?
 
+ANS: Cross-axis 
+
 5. Explain why git is valuable to a team of developers.
+
+ANS: Git is a control version to keep the track of changes in code.Its a decentralized version control system means more than one person can work on it regardless of having different network and contribute in a project.
 
 You are expected to be able to answer all these questions. Your responses contribute to your Sprint Challenge grade. Skipping this section *will* prevent you from passing this challenge.
 
